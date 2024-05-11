@@ -1,0 +1,672 @@
+{
+    "SECTION 1 INTRODUCTION": {
+        "requirements": [
+            {
+                "requirement": "Vendors must abide by the routing guide as stated in the Dick's Sporting Goods Vendor Agreement.",
+                "source": "As stated in the Dick's Sporting Goods Vendor Agreement (\"Vendor Agreement\"), it is our expectation that vendors will abide by this routing guide."
+            },
+            {
+                "requirement": "Guidelines identified as required must be complied with. Guidelines identified as recommended or requested do not require compliance.",
+                "source": "As you read through this routing guide you will notice some items specifically defined as required and some items will be defined as recommended or requested.  Please note that unless identified as recommended or requested a section is considered to be required."
+            },
+            {
+                "requirement": "Recommended or requested guidelines can become required at any time with notice sent on updates or changes.",
+                "source": "Recommended or requested items can become required at any time as Dick's Sporting Goods finds it necessary.  A notice will be sent on updates or changes to required and recommended or requested items."
+            },
+            {
+                "requirement": "Guidelines cannot be changed or modified except by written approval from the manager or director of vendor relations.",
+                "source": "All guidelines stated herein are Dick's Sporting Goods' policy and cannot be changed or modified except by written approval by the manager or director of vendor relations."
+            },
+            {
+                "requirement": "This routing guide takes precedence over any previous routing guides published by Dick's Sporting Goods.",
+                "source": "This routing guide takes precedence over any previous routing guides published by Dick's Sporting Goods."
+            },
+            {
+                "requirement": "Vendors are required to follow the requirements set forth in the routing guide as stated in the vendor agreement.",
+                "source": "All vendors are required as stated in the vendor agreement to follow the requirements set forth in the routing guide."
+            },
+            {
+                "requirement": "Vendors must review the documents on the DSG Vendor Portal thoroughly prior to the first shipment to ensure guidelines are followed.",
+                "source": "Vendor must review the Documents located on the DSG Vendor Portal, including this Routing Guide, thoroughly prior to the first shipment to ensure guidelines are followed."
+            },
+            {
+                "requirement": "Vendors must revisit the DSG Vendor Portal monthly to check for the most recent updates and alerts.",
+                "source": "Vendor must revisit the DSG Vendor Portal monthly to check for our most recent updates and alerts."
+            }
+        ]
+    },
+    "SECTION 2 CONFIDENTIAL INFORMATION POLICY": {
+        "requirements": [
+            {
+                "requirement": "New vendors must have contacts from their Vendor Agreement receive a \"Vendor Admin\" User ID for the Dick's Sporting Goods Vendor Portal.",
+                "source": "New Vendors \u2013Contacts from your Vendor Agreement will receive a \"Vendor Admin\" User ID for the Dick's Sporting Goods Vendor Portal."
+            },
+            {
+                "requirement": "For existing vendors, the vendor's Vendor Admin is responsible for adding additional users for their organization, as well as maintaining/deleting users as needed.",
+                "source": "Existing Vendors - The vendor's Vendor Admin is responsible for adding additional users for their organization, as well as maintaining/deleting users as needed."
+            },
+            {
+                "requirement": "It is recommended to register members from customer service, distribution, transportation, EDI, and sales groups.",
+                "source": "It is recommended to register members from the following groups:  customer service, distribution, transportation, EDI, and sales"
+            },
+            {
+                "requirement": "The vendor must maintain current user access and update users if a person has left the company or is no longer on the Dick's Sporting Goods account.",
+                "source": "It is required for the vendor to maintain current user access. If a person has left the company or is no longer on the Dick's Sporting Goods account, it is the Vendor Admin responsibility to update the users associated with the Vendor Account."
+            },
+            {
+                "requirement": "It is recommended to have more than one user set up with the admin role.",
+                "source": "It is recommended to have more than one user set up with the admin role"
+            },
+            {
+                "requirement": "Vendor must review the Documents located on the DSG Vendor Portal, including this Routing Guide, thoroughly prior to the first shipment to ensure guidelines are followed.",
+                "source": "Vendor must review the Documents located on the DSG Vendor Portal, including this Routing Guide, thoroughly prior to the first shipment to ensure guidelines are followed."
+            },
+            {
+                "requirement": "Vendor must revisit the DSG Vendor Portal monthly to check for the most recent updates and alerts.",
+                "source": "Vendor must revisit the DSG Vendor Portal monthly to check for our most recent updates and alerts."
+            }
+        ]
+    },
+    "SECTION 3 VENDOR INDEMNIFICATION AND INSURANCE": {
+        "requirements": [
+            {
+                "requirement": "New vendors must have contacts from their Vendor Agreement receive a \"Vendor Admin\" User ID for the Dick's Sporting Goods Vendor Portal.",
+                "source": "New Vendors \u2013Contacts from your Vendor Agreement will receive a \"Vendor Admin\" User ID for the Dick's Sporting Goods Vendor Portal."
+            },
+            {
+                "requirement": "For existing vendors, the vendor's Vendor Admin is responsible for adding additional users for their organization, as well as maintaining/deleting users as needed.",
+                "source": "Existing Vendors - The vendor's Vendor Admin is responsible for adding additional users for their organization, as well as maintaining/deleting users as needed."
+            },
+            {
+                "requirement": "It is recommended to register members from customer service, distribution, transportation, EDI, and sales groups.",
+                "source": "It is recommended to register members from the following groups:  customer service, distribution, transportation, EDI, and sales"
+            },
+            {
+                "requirement": "The vendor must maintain current user access. If a person has left the company or is no longer on the Dick's Sporting Goods account, it is the Vendor Admin responsibility to update the users associated with the Vendor Account.",
+                "source": "It is required for the vendor to maintain current user access. If a person has left the company or is no longer on the Dick's Sporting Goods account, it is the Vendor Admin responsibility to update the users associated with the Vendor Account."
+            },
+            {
+                "requirement": "It is recommended to have more than one user set up with the admin role.",
+                "source": "It is recommended to have more than one user set up with the admin role"
+            },
+            {
+                "requirement": "Vendor must review the Documents located on the DSG Vendor Portal, including this Routing Guide, thoroughly prior to the first shipment to ensure guidelines are followed.",
+                "source": "Vendor must review the Documents located on the DSG Vendor Portal, including this Routing Guide, thoroughly prior to the first shipment to ensure guidelines are followed."
+            },
+            {
+                "requirement": "Vendor must revisit the DSG Vendor Portal monthly to check for the most recent updates and alerts.",
+                "source": "Vendor must revisit the DSG Vendor Portal monthly to check for our most recent updates and alerts."
+            }
+        ]
+    },
+    "SECTION 4 PRODUCT DATA AND ATTRIBUTES": {
+        "requirements": [
+            {
+                "requirement": "Packaging containing hazardous materials must be properly classified, described, packaged, marked, labeled and in proper condition for logistics according to applicable DOT regulations.",
+                "source": "Packaging containing hazardous materials must be properly classified, described, packaged, marked, labeled and in proper condition for Logistics according to applicable DOT regulations with assurance that required labeling and markings (Labels, markings, proper shipping name, permit number, identification number, etcetera) are not obstructed by UCC-128 or any other vendor labeling."
+            },
+            {
+                "requirement": "All hazardous materials regulated by DOT must meet all prescribed regulation per 49 CFR (Code of Federal Regulations).",
+                "source": "All hazardous materials regulated by DOT (Department of Logistics) must meet all prescribed regulation per 49 CFR (Code of Federal Regulations)."
+            },
+            {
+                "requirement": "All hazardous materials must be packaged in United Nations Performance Oriented Packaging (UN POP) except when non-specification packaging is authorized by 49 CFR.",
+                "source": "All hazardous materials must be packaged in United Nations Performance Oriented Packaging (UN POP) except when non-specification packaging is authorized by 49 CFR."
+            }
+        ]
+    },
+    "SECTION 5 VALUE ADDED SERVICES (VAS) REQUIREMENTS": {
+        "requirements": [
+            {
+                "requirement": "All non-prescription (OTC and/or non-Rx) and pharmaceutical drug merchandise supplied to DICK's must be shipped with a minimum of 150 days from expiry.",
+                "source": "All non-prescription (OTC and/or non-Rx) and pharmaceutical drug merchandise supplied to DICK's must be shipped with a minimum of 150 days from expiry."
+            },
+            {
+                "requirement": "All merchandise is required to be shipped in floor ready conditioning ready for immediate placement on the selling floor.",
+                "source": "All merchandise is required to be shipped in floor ready conditioning ready for immediate placement on the selling floor."
+            },
+            {
+                "requirement": "A human readable UPC and scan able barcode is required on each individual selling product.",
+                "source": "A human readable UPC and scan able barcode is required on each individual selling product."
+            },
+            {
+                "requirement": "Boxed inflatables such as soccer balls are required to have the UPC printed directly on the ball as well as on the box. The retail ticket is placed on the front of the box in the upper right corner.",
+                "source": "Boxed inflatables such as soccer balls are required to have the UPC printed directly on the ball as well as on the box. The retail ticket is placed on the front of the box in the upper right corner."
+            },
+            {
+                "requirement": "Unless otherwise directed by your buyer all apparel designated for Brick & Mortar is required to be hung.",
+                "source": "Unless otherwise directed by your buyer all apparel designated for Brick & Mortar is required to be hung."
+            },
+            {
+                "requirement": "Folded apparel is required to be individually poly bagged to ensure proper presentation is maintained through the supply chain.",
+                "source": "It is required to be individually poly bagged to ensure proper presentation is maintained through the supply chain."
+            },
+            {
+                "requirement": "Polybag must be sealed prior to shipping by using either a self-sealing polybag or scotch tape. Do not tie polybags.",
+                "source": "Polybag must be sealed prior to shipping by using either a self-sealing polybag or scotch tape. Do not tie polybags."
+            },
+            {
+                "requirement": "All folded garments are required to have the appropriate sizer strip placed 1\" from the left side of the fold with at least 2\" of the strip showing above the folded edge.",
+                "source": "All folded garments are required to have the appropriate sizer strip. Additionally it is required to place the sizer strip 1\" from the left side of the fold as you face the garment (wearers right) with at least 2\" of the strip showing above the folded edge."
+            },
+            {
+                "requirement": "PO's designated for ecommerce are required to be folded and in a polybag. No sizer strip is required when shipping orders for ecommerce.",
+                "source": "PO's designated for ecommerce are required to be folded and in a polybag. No sizer strip is required when shipping orders for ecommerce."
+            },
+            {
+                "requirement": "All apparel is required to arrive hung using the appropriate black GS1 standard hanger along with the correct black four (4) sided Secure Over-Hanger Sizer (SOHS).",
+                "source": "All apparel is required to arrive hung using the appropriate black GS1 standard hanger along with the correct black four (4) sided Secure Over-Hanger Sizer (SOHS)."
+            },
+            {
+                "requirement": "2 Piece sets must use the appropriate top and bottom hanger. It is required to insert the bottom hanger to the top hanger connector.",
+                "source": "2 Piece sets must use the appropriate top and bottom hanger. It is required to insert the bottom hanger to the top hanger connector."
+            },
+            {
+                "requirement": "Unless specified in Exhibit F Hanger Guide to hang open, all bottoms are required to hang in a closed presentation using the tucking standard chart as a guide.",
+                "source": "REQUIRED: Unless specified in Exhibit F Hanger Guide to hang open, all bottoms are required to hang in a closed presentation using the tucking standard chart below as a guide."
+            },
+            {
+                "requirement": "When ordering hangers from your hanger supplier It is required that you only order hanger styles listed in the hanger chart (Exhibit F). The use of any other non-approved hanger may be subject to a compliance fee.",
+                "source": "When ordering hangers from your hanger supplier It is required that you only order hanger styles listed in the hanger chart (Exhibit F). The use of any other non-approved hanger may be subject to a compliance fee."
+            },
+            {
+                "requirement": "Unboxed footwear is required to be packaged in individual polybags and must be secured to the hanger so it does not fall off during transit.",
+                "source": "Unboxed footwear REQUIRED: Packaged in individual polybags. Must be secured to the hanger so it does not fall off during transit."
+            },
+            {
+                "requirement": "Boxed footwear is required to have labels on the end of the shoebox noting the style, description, UPC and size.",
+                "source": "Boxed Footwear REQUIRED: Labels on the end of the shoebox noting the style, description, UPC and size."
+            },
+            {
+                "requirement": "Folded apparel items require individual polybags. Apparel on hanger, Accessories, and Hardlines items should not have individual polybags.",
+                "source": "REQUIRED: Folded apparel items require individual polybags (refer to section 5.2). Apparel on hanger, Accessories, and Hardlines items should not have individual polybags."
+            },
+            {
+                "requirement": "Master polybags should not be sealed with tape or tied in any way.",
+                "source": "Master polybags \u2013 Do not seal polybags with tape or tie them in any way."
+            },
+            {
+                "requirement": "Individual polybags must be sealed prior to shipping by using either a self-sealing polybag or scotch tape.",
+                "source": "Individual polybags \u2013 Must be sealed prior to shipping by using either a self-sealing polybag or scotch tape."
+            },
+            {
+                "requirement": "Polybags or master polybags should not exceed 36\" unless the garment exceeds 36\" in length, in which case the polybag should be no more than 1.5\" below the garment.",
+                "source": "To avoid the use of excess plastic polybags or master polybag should not exceed the below requirements. Do not exceed 36\" unless the garment exceeds 36\" in length. When garment exceeds 36\" in length polybag/master polybag should be no more the 1.5\" below the garment."
+            }
+        ]
+    },
+    "SECTION 6 PURCHASE ORDERS": null,
+    "SECTION 7 EDI": {
+        "requirements": [
+            {
+                "requirement": "A separate packing slip is to be created for each purchase order",
+                "source": "A separate packing slip is to be created for each purchase order"
+            },
+            {
+                "requirement": "A separate packing slip is to be created for each store designation",
+                "source": "A separate packing slip is to be created for each store designation"
+            },
+            {
+                "requirement": "The packing slip must be legible and include the purchase order number, store destination number when applicable, quantity shipped for each UPC",
+                "source": "The packing slip must be legible and include the following information: Purchase order number, Store destination number when applicable, Quantity shipped for each UPC"
+            },
+            {
+                "requirement": "For bulk orders, the packing slip must include the number of cartons shipped per UPC and case pack quantity",
+                "source": "Bulk Orders - Number of cartons shipped per UPC and case pack quantity is mandatory"
+            },
+            {
+                "requirement": "For replenishment (store) orders, the packing slip must include the number of cartons shipped per PO",
+                "source": "Replenishment (store) orders \u2013 Number of cartons shipped per PO is mandatory"
+            },
+            {
+                "requirement": "For drop shipments (ship direct-to-store), the packing slip must list carton count as carton x of y at the PO level",
+                "source": "Drop Shipments (ship direct-to-store) \u2013 List carton count as carton x of y at the PO level"
+            },
+            {
+                "requirement": "For eCommerce packing slips for the ecommerce fulfillment center (821 or 822), a detailed packing slip by carton must be provided if you are a non-EDI vendor, listing each carton and its contents",
+                "source": "eCommerce packing slip for the ecommerce fulfillment center, 821 or 822 \u2013 PO's written with a final destination of the ecommerce fulfillment center at GSI, 821 or 822 must have a detailed packing slip by carton if you are a non EDI vendor. It must list each carton and its contents"
+            }
+        ]
+    },
+    "SECTION 8 NON-EDI": {
+        "requirements": [
+            {
+                "requirement": "Cartons must contain merchandise for only one purchase order",
+                "source": "Cartons must contain merchandise for only one purchase order"
+            },
+            {
+                "requirement": "All merchandise shipped to Dick's Sporting Goods must be shipped in corrugated cartons. Use of jiffy bags, burlap bags, or mailing envelopes are not permitted.",
+                "source": "All merchandise shipped to Dick's Sporting Goods must be shipped in corrugated cartons. Use of jiffy bags, burlap bags, or mailing envelopes are not permitted."
+            },
+            {
+                "requirement": "Do not use rubber bands or ties to hold hangers together on apparel orders or any other merchandise",
+                "source": "Do not use rubber bands or ties to hold hangers together on apparel orders or any other merchandise"
+            },
+            {
+                "requirement": "Apparel items for Dick's Sporting Goods brick and mortar stores shipped on hangers cannot be individually polybagged. Instead, use a bladder bag around the entire carton contents. Do not tape or tie the bladder bag closed.",
+                "source": "Apparel items for Dick's Sporting Goods brick and mortar stores shipped on hangers cannot be individually polybagged.  Instead, use a bladder bag around the entire carton contents. Do not tape or tie the bladder bag closed."
+            },
+            {
+                "requirement": "Corrugate dividers used to avoid scratching or damage to some merchandise while in transit is allowed, however you must contact the vendor relations team to gain approval. If you are using dividers as a method to protect product no other packaging material can be used i.e. tissue or polybags",
+                "source": "Corrugate dividers used to avoid scratching or damage to some merchandise while in transit is allowed, however you must contact the vendor relations team to gain approval. If you are using dividers as a method to protect product no other packaging material can be used i.e. tissue or polybags"
+            },
+            {
+                "requirement": "Shipping in individual polybags is not acceptable unless otherwise stated for specific product throughout the routing guide i.e. ecommerce.",
+                "source": "Shipping in individual polybags is not acceptable unless otherwise stated for specific product throughout the routing guide i.e. ecommerce."
+            },
+            {
+                "requirement": "For conveyable cartons, do not use carton straps, banding or wrap individual cartons in cellophane or plastic",
+                "source": "Conveyable cartons - Do not use carton straps, banding or wrap individual cartons in cellophane or plastic"
+            }
+        ]
+    },
+    "SECTION 9 GENERAL PACKING AND SHIPPING": {
+        "requirements": [
+            {
+                "requirement": "Cartons must contain merchandise for only one purchase order",
+                "source": "Cartons must contain merchandise for only one purchase order"
+            },
+            {
+                "requirement": "All merchandise shipped to Dick's Sporting Goods must be shipped in corrugated cartons. Use of jiffy bags, burlap bags, or mailing envelopes are not permitted.",
+                "source": "All merchandise shipped to Dick's Sporting Goods must be shipped in corrugated cartons. Use of jiffy bags, burlap bags, or mailing envelopes are not permitted."
+            },
+            {
+                "requirement": "Do not use rubber bands or ties to hold hangers together on apparel orders or any other merchandise",
+                "source": "Do not use rubber bands or ties to hold hangers together on apparel orders or any other merchandise"
+            },
+            {
+                "requirement": "Apparel items for Dick's Sporting Goods brick and mortar stores shipped on hangers cannot be individually polybagged. Instead, use a bladder bag around the entire carton contents. Do not tape or tie the bladder bag closed.",
+                "source": "Apparel items for Dick's Sporting Goods brick and mortar stores shipped on hangers cannot be individually polybagged.  Instead, use a bladder bag around the entire carton contents. Do not tape or tie the bladder bag closed."
+            },
+            {
+                "requirement": "Corrugate dividers used to avoid scratching or damage to some merchandise while in transit is allowed, however you must contact the vendor relations team to gain approval. If you are using dividers as a method to protect product no other packaging material can be used i.e. tissue or polybags",
+                "source": "Corrugate dividers used to avoid scratching or damage to some merchandise while in transit is allowed, however you must contact the vendor relations team to gain approval. If you are using dividers as a method to protect product no other packaging material can be used i.e. tissue or polybags"
+            },
+            {
+                "requirement": "Shipping in individual polybags is not acceptable unless otherwise stated for specific product throughout the routing guide i.e. ecommerce.",
+                "source": "Shipping in individual polybags is not acceptable unless otherwise stated for specific product throughout the routing guide i.e. ecommerce."
+            },
+            {
+                "requirement": "Conveyable cartons - Do not use carton straps, banding or wrap individual cartons in cellophane or plastic",
+                "source": "Conveyable cartons - Do not use carton straps, banding or wrap individual cartons in cellophane or plastic"
+            }
+        ]
+    },
+    "SECTION 10 CARTON LABELING": {
+        "requirements": [
+            {
+                "requirement": "Cartons containing fragile items should have a label indicating \"Fragile\".",
+                "source": "Cartons containing fragile items with a label indicating \"Fragile\"."
+            },
+            {
+                "requirement": "Cartons requiring a specific orientation should have arrows and the phrase \"This End Up\".",
+                "source": "Cartons requiring a specific orientation with arrows and the phrase \"This End Up\"."
+            },
+            {
+                "requirement": "Cartons requiring clamp equipment should state \"Clamp From this End\".",
+                "source": "Cartons requiring clamp equipment should state \"Clamp From this End\""
+            },
+            {
+                "requirement": "Any carton containing more than 20 oz. total fluid liquids shall be marked with the word LIQUID and have orientation arrows.",
+                "source": "Any carton containing more than 20 oz. total fluid liquids shall be marked with the word LIQUID and have orientation arrows."
+            },
+            {
+                "requirement": "Cartons containing aerosol sprays should be labeled with a Limited Quantity or Consumer Commodity ORM-D Marking.",
+                "source": "Cartons containing aerosol sprays should be labeled with a Limited Quantity or Consumer Commodity ORM-D Marking"
+            },
+            {
+                "requirement": "Cartons with a case pack of 2 or more (excluding displays) may not exceed 75 lbs.",
+                "source": "Cartons with a case pack of 2 or more (excluding displays) may not exceed 75 lbs."
+            },
+            {
+                "requirement": "Any legally required external labels may not be obstructed in any manner with any other labeling.",
+                "source": "Any Legally required external labels may not be obstructed in any manner with any other labeling"
+            },
+            {
+                "requirement": "Any external labels except for the shipping label shall be marked in both English and Spanish translations.",
+                "source": "Any external labels except for the shipping label shall be marked in both English and Spanish translations."
+            },
+            {
+                "requirement": "Cartons shipped individually via small parcel without pallets for Dept. 220, 222 or 225 are required to have a 4\"x4\" Bright Green label placed just left of the UCC128 label on each carton. This label cannot be covered by any other label on the carton.",
+                "source": "Any cartons shipped individually via small parcel without pallets are required to have a 4\"x4\" Bright Green label placed just left of the UCC128 label on each carton notating Dept. 220, 222 or 225. This label cannot be covered by any other label on the carton"
+            },
+            {
+                "requirement": "Include a packing slip for each carton in a packing slip envelope attached to the outside of the carton for firearm shipments.",
+                "source": "It is required to include a packing slip for each carton in a packing slip envelope attached to the outside of the carton"
+            }
+        ]
+    },
+    "SECTION 11 SHIPPING LABEL PLACEMENT": {
+        "requirements": [
+            {
+                "requirement": "All cartons require a label containing the same information as an EDI label excluding the ship to postal barcode and the UCC barcode.",
+                "source": "All cartons require a label. The label should contain the same information as an EDI label excluding the ship to postal barcode and the UCC barcode."
+            },
+            {
+                "requirement": "Labels should be placed on the right side of the carton 2\" from the natural base and 2\" from the vertical edge to avoid damage in transit.",
+                "source": "Place on the right side of the carton 2\" from the natural base of the carton and 2\" from the vertical edge of the carton to avoid damage to the label in transit"
+            },
+            {
+                "requirement": "If the carton height is 4\" or less, place the label on the top of the carton 2\" from the right corner and vertical edge.",
+                "source": "If the carton height is 4\" or less, place the label the top of the carton 2\" from right corner and vertical edge."
+            },
+            {
+                "requirement": "The bar code portion of the UCC128 label shall be upright (i.e. in picket fence orientation).",
+                "source": "The bar code portion of the UCC128 label shall be upright (i.e. in picket fence orientation)"
+            },
+            {
+                "requirement": "The barcode should always be applied smoothly on the carton surface with no wrinkles.",
+                "source": "The barcode should always be applied so it is smooth on the carton surface with no wrinkles"
+            },
+            {
+                "requirement": "The UCC128 barcode on the shipping label should never fold over any corner or edge of cartons, overlap a taped seam, or be placed on the end of the carton unless it exceeds 48\" in length.",
+                "source": "UCC128 barcode on shipping label should never: Fold over any corner or edge of cartons, Overlap (cover) a taped seam on a carton, The label should never be placed on the end of the carton unless the carton exceeds 48\" in length."
+            }
+        ]
+    },
+    "SECTION 12 VENDOR CERTIFICATION": {
+        "requirements": [
+            {
+                "requirement": "Label must be applied towards the front, right-hand side of all boats.",
+                "source": "Label must be applied towards the front, right-hand side all boats"
+            },
+            {
+                "requirement": "If boat is shipped in plastic, place UCC128 label directly on the plastic, not on the boat.",
+                "source": "If boat is shipped in plastic \u2013 place UCC128 directly on plastic (not on boat)."
+            },
+            {
+                "requirement": "If boat is shipped without plastic, place UCC128 label directly on the boat.",
+                "source": "If boat is shipped not in plastic \u2013 place UCC128 directly on boat."
+            },
+            {
+                "requirement": "Label should be applied on the flattest surface to prevent the barcode from creasing.",
+                "source": "Label should be applied on the flattest surface to prevent the barcode from creasing."
+            },
+            {
+                "requirement": "Label may be placed in a vertical or horizontal position.",
+                "source": "Label may be placed in a vertical or horizontal position."
+            }
+        ]
+    },
+    "SECTION 13 ROUTING (TMS TRAINING)": {
+        "requirements": [
+            {
+                "requirement": "All vendors, regardless of size of shipment or freight terms, must request routing through TMS.",
+                "source": "All vendors, regardless of size of shipment or freight terms, must request routing through TMS."
+            },
+            {
+                "requirement": "Each trailer/container must have its own routing request.",
+                "source": "Each trailer/container must have its own routing request."
+            },
+            {
+                "requirement": "Collect shipments must be routed no less than 2 business days prior to your Cancel If Not Ship By Date (CINSB) to allow TMS time to assign a truck so you can schedule the load to be picked up by the CINSB date.",
+                "source": "Collect shipments must be routed no less than 2 business days prior to your Cancel If Not Ship By Date (CINSB) to allow TMS time to assign a truck so you can schedule the load to be picked up by the CINSB date."
+            },
+            {
+                "requirement": "It is required to have an accurate ready date when the freight will be ready to ship when requesting routing.",
+                "source": "It is required to have an accurate ready date when the freight will be ready to ship when requesting routing."
+            },
+            {
+                "requirement": "All metrics such as total cartons, cube, pallet positions and weight must be accurate.",
+                "source": "All metrics such as total cartons, cube, pallet positions and weight must be accurate."
+            },
+            {
+                "requirement": "The total weight must include the weight of pallet(s) when selecting pallet loading method in TMS.",
+                "source": "The total weight must include the weight of pallet(s) when selecting pallet loading method in TMS."
+            },
+            {
+                "requirement": "If you are shipping a partial PO, you will need to reduce the Ready to Ship (RTS) quantity on the related PO line item to reflect the number of cartons you are actually shipping when entering your routing request.",
+                "source": "If you are shipping a partial PO, you will need to reduce the Ready to Ship (RTS) quantity on the related PO line item to reflect the number of cartons you are actually shipping when entering your routing request."
+            },
+            {
+                "requirement": "It is required to cancel any RTS that is not going to ship.",
+                "source": "It is required to cancel any RTS that is not going to ship."
+            }
+        ]
+    },
+    "SECTION 14 DOMESTIC TRANSPORTATION": {
+        "requirements": [
+            {
+                "requirement": "Vendors must accumulate POs and ship once a week per facility unless they reach full trailer shipments on a more frequent basis.",
+                "source": "Vendors must accumulate POs and ship once a week per facility unless they reach full trailer shipments on a more frequent basis."
+            },
+            {
+                "requirement": "For collect vendors only one LTL and/or Parcel size shipment is permitted per week per DC unless vendor ships from multiple facilities.",
+                "source": "For collect vendors only one LTL and/or Parcel size shipment is permitted per week per DC unless vendor ships from multiple facilities."
+            },
+            {
+                "requirement": "All shipments are to be sent Shipper Load and Count. Dick's Sporting Goods does not pay charges for driver load and count or count at origin.",
+                "source": "All shipments are to be sent Shipper Load and Count. Dick's Sporting Goods does not pay charges for driver load and count or count at origin."
+            },
+            {
+                "requirement": "Back orders are not permitted on E3 replenishment orders",
+                "source": "It is critical that purchase orders (POs) are shipped complete. Back orders are not permitted on E3 replenishment orders"
+            },
+            {
+                "requirement": "All POs going to the same destination should be combined and entered onto one routing request.",
+                "source": "All POs going to the same destination should be combined and entered onto one routing request."
+            },
+            {
+                "requirement": "Orders must be shipped within the \"DO NOT SHIP BEFORE\" and \"CANCEL IF NOT SHIPPED BY\" ship window, as close to the \"DO NOT SHIP BEFORE\" as possible.",
+                "source": "All POs indicate a \"DO NOT SHIP BEFORE\" and a \"CANCEL IF NOT SHIPPED BY\". Orders must be shipped within this ship window, as close to the \"DO NOT SHIP BEFORE\" as possible."
+            },
+            {
+                "requirement": "Shipments requiring more than one trailer/container must have a bill of lading and ASN which represent the contents of each individual trailer/container. Each trailer/container must have its own routing request.",
+                "source": "Shipments requiring more than one trailer/container must have a bill of lading and ASN which represent the contents of each individual trailer/container. In addition, each trailer/container must have its own routing request."
+            },
+            {
+                "requirement": "All shipments moving with a truckload carrier must be sealed by the vendor and the seal number must be listed on the BOL.",
+                "source": "All shipments moving with a truckload carrier must be sealed by the vendor and the seal number must be listed on the BOL."
+            },
+            {
+                "requirement": "Vendor must clearly list the shipment ID from TMS on the first page of the BOL.",
+                "source": "Vendor must clearly list the shipment ID from TMS on the first page of the BOL as identified in section 14.3 of this routing guide."
+            },
+            {
+                "requirement": "When shipping with an LTL carrier, freight must be palletized and shrink wrapped.",
+                "source": "It is required when shipping with an LTL carrier to palletize and shrink wrap their freight."
+            },
+            {
+                "requirement": "Shipments on pallets must be clearly marked with the piece count on each pallet.",
+                "source": "Shipments on pallets must be clearly marked with the piece count on each pallet."
+            },
+            {
+                "requirement": "For palletized shipments, the weight of the pallet must be included in the total weight entered on the routing request in TMS.",
+                "source": "For Palletized shipments, the weight of the pallet must be included in the total weight entered on the routing request in TMS."
+            },
+            {
+                "requirement": "Each pallet must be clearly marked with a placard notating the DC location and address.",
+                "source": "Each pallet must be clearly marked with a placard notating the DC location and address to avoid any mis-directed freight"
+            },
+            {
+                "requirement": "Non-conveyable freight should be sorted by purchase order, with items within the same UPC kept together within a purchase order.",
+                "source": "Non-Conveyable freight should be sorted by purchase order. Items within the same UPC are to be kept together within a purchase order."
+            },
+            {
+                "requirement": "Vendors are required to provide two copies of their BOL to the carrier at pick up.",
+                "source": "Vendors are required to provide two copies of their BOL to the carrier at pick up, failure to comply will result in an expense offset."
+            },
+            {
+                "requirement": "The vendor must verify with the truck driver that the correct shipment ID is being loaded on the truck. Do not load the truck if the driver does not have the shipment ID.",
+                "source": "It is the responsibility of the vendor to verify with the truck driver that the correct shipment ID is being loaded on the truck.  Do not load the truck if the driver does not have the shipment ID.  Have the driver contact his dispatch for the shipment ID."
+            }
+        ]
+    },
+    "SECTION 15 DIRECT IMPORT COLLECT TRANSPORTATION": null,
+    "SECTION 16 DAMAGE/DEFECTIVE RTV PROGRAM": {
+        "requirements": [
+            {
+                "requirement": "Vendors participating in the RTV program will be charged a consolidation fee for freight and handling charges.",
+                "source": "By participating in the RTV program, vendors will be charged consolidation fee for freight and handling charges."
+            },
+            {
+                "requirement": "Dick's Sporting Goods does not pay handling/refurbishing charges on defective or returned Accommodation Returns.",
+                "source": "Dick's Sporting Goods does not honor the payment of handling/refurbishing charges on defective or returned Accommodation Returns."
+            },
+            {
+                "requirement": "Vendors on the RTV program who have not supplied a standing RA must provide an RA within 48 hours of Dick's Sporting Goods requesting one via email.",
+                "source": "If you are on the RTV program and have not supplied a standing RA as part of your vendor agreement vendors will be contacted via email from a Dick's Sporting Goods RTV team member requesting the RA for defective goods. It is DSG's requirement that an RA will be received from the Vendor within 48 hours of the initial DSG request."
+            },
+            {
+                "requirement": "Dick's Sporting Goods reserves the right to sell damaged/defective customer returns, aged/shopworn inventory, and flood/fire damaged inventory to a third party, even if the vendor participates in the RTV or Defective Allowance Program.",
+                "source": "Dick's Sporting Goods reserves the right to sell goods to a third party, specifically, in the instance where (a) Damaged/Defective customer returns are covered by Dealer's Defective Allowance Program; (b) Aged and shopworn inventory is removed from the stores at no cost to the Vendor; or (c) Store inventory is damaged by flood, fire or similar events and removed from the store(s) at no cost to the Vendor."
+            },
+            {
+                "requirement": "Disputes for RTV discrepancies 3-6 months old are subject to a $25 charge per RTV deduction. No research will be done on RTV discrepancies over 6 months old.",
+                "source": "Any information disputed on RTV's and RTV discrepancies older than 3 months from the date of the RTV will be subject to a $25 charge per RTV deduction. No research will be done on any RTV's or RTV discrepancies over 6 months from the RTV date."
+            }
+        ]
+    },
+    "SECTION 17 POINT OF SALE REPORTING": {
+        "requirements": [
+            {
+                "requirement": "Vendors are encouraged to enroll in the service provided by SPS Commerce to gain visibility into POS data, including sales, margin, sell thru, inventory data and more.",
+                "source": "Vendors are encouraged to enroll in the service provided by SPS Commerce. This service provides visibility to POS data, including sales, margin, sell thru, inventory data and more."
+            },
+            {
+                "requirement": "All POS data provided by SPS Commerce is deemed confidential information of Dick's Sporting Goods or its related divisions.",
+                "source": "All POS data is deemed Dick's Sporting Goods, or it's related division's confidential information."
+            },
+            {
+                "requirement": "Vendor dashboards are available through SPS Commerce to show a vendor how they are performing for all key performance indicators.",
+                "source": "Vendor dashboards are available to show a vendor how they are performing for all key performance indicators."
+            },
+            {
+                "requirement": "\"Shared View\" reports from SPS Commerce are Excel-based and provide results for specific product's performance at the UPC/Store level on a weekly basis.",
+                "source": "\"Shared View\" reports are excel based and provide results for specific product's performance at the UPC/Store level on a weekly basis."
+            }
+        ]
+    },
+    "SECTION 18 ECOMMERCE": {
+        "requirements": [
+            {
+                "requirement": "One SKU per carton is preferred, however, one style, color, and multiple sizes may be shipped per carton if shipment is small and conveyable weight requirements cannot be met.",
+                "source": "One SKU per carton is preferred, however, one style, color, and multiple sizes may be shipped per carton if shipment is small and conveyable weight requirements cannot be met."
+            },
+            {
+                "requirement": "Merchandise inside of cartons should NOT be tied together in bundles with strings, bands, etc.",
+                "source": "Merchandise inside of cartons should NOT be tied together in bundles with strings, bands, etc."
+            },
+            {
+                "requirement": "Carton weight should not exceed 40 pounds, unless the product itself weighs more than 40 pounds.",
+                "source": "Carton weight should not exceed 40 pounds, unless the product itself weighs more than 40 pounds."
+            },
+            {
+                "requirement": "All material softlines accessories and apparel, including socks, headwear, gloves (including batting gloves and football gloves), towels and belts, scarves, facemasks, visors, shoe laces, arm sleeves MUST be poly-bagged by individual saleable unit.",
+                "source": "All material softlines accessories and apparel, including socks, headwear, gloves (including batting gloves and football gloves), towels and belts, scarves, facemasks, visors, shoe laces, arm sleeves MUST be poly-bagged by individual saleable unit."
+            },
+            {
+                "requirement": "The following hardgoods items, golf club covers, fanny packs, flip flops or sandals (not already in a box), shin guards, backpacks and life vests MUST be poly-bagged by individual saleable unit.",
+                "source": "The following hardgoods items, golf club covers, fanny packs, flip flops or sandals (not already in a box), shin guards, backpacks and life vests MUST be poly-bagged by individual saleable unit."
+            },
+            {
+                "requirement": "Polybag must be sealed prior to shipping by using either a self-sealing polybag or scotch tape",
+                "source": "Polybag must be sealed prior to shipping by using either a self-sealing polybag or scotch tape"
+            },
+            {
+                "requirement": "Polybag material will be a minimum .85 mil thick.",
+                "source": "Polybag material will be a minimum .85 mil thick."
+            },
+            {
+                "requirement": "Vendors must print or label the following warning across the center of each polybag, with lettering to be a minimum of 1/8\" high: \"WARNING \u2013 To avoid danger of suffocation; keep away from babies and children. Do not use in cribs, beds or play pens. This bag is not a toy.\"",
+                "source": "Vendors must print or label the following warning across the center of each polybag, with lettering to be a minimum of 1/8\" high: \"WARNING \u2013 To avoid danger of suffocation; keep away from babies and children. Do not use in cribs, beds or play pens. This bag is not a toy.\""
+            },
+            {
+                "requirement": "Hardgoods items packaged in an outer carton (covering a single selling unit) that is not part of the selling unit must have a UPC on the outer carton as well as the individual selling unit",
+                "source": "Hardgoods items packaged in an outer carton (covering a single selling unit) that is not part of the selling unit must have a UPC on the outer carton as well as the individual selling unit"
+            },
+            {
+                "requirement": "Apparel must be shipped without a hanger.",
+                "source": "Apparel must be shipped without a hanger."
+            },
+            {
+                "requirement": "Seal shipping cartons with tape as described in section 9.6. Do not use staples or bands.",
+                "source": "Seal shipping cartons with tape as described in section 9.6. Do not use staples or bands."
+            },
+            {
+                "requirement": "Do not use excessive packing material as described in section 9.5.",
+                "source": "Do not use excessive packing material as described in section 9.5."
+            }
+        ]
+    },
+    "SECTION 19 CHARGEBACK RESEARCH AND DISPUTES": {
+        "requirements": [
+            {
+                "requirement": "Vendors must maintain a 98% or better on-time ship and fill rate for eCommerce orders.",
+                "source": "As outlined in your Dick's Sporting Goods Vendor Agreement eCommerce addendum, we require a 98% or better on-time ship and fill rate."
+            },
+            {
+                "requirement": "Disputes or requests for additional information on chargebacks older than 6 months from the date the charge is approved will be subject to a $25 charge per item.",
+                "source": "Any information requested on chargeback's older than 6 months from the date the charge is approved in the vendor portal will be subject to a $25 charge per item."
+            },
+            {
+                "requirement": "No research will be done on any chargeback over 1 year old from the date the charge is approved.",
+                "source": "No research will be done on any charge over 1 year from the date charge is approved in the vendor portal"
+            },
+            {
+                "requirement": "Vendors/Manufacturers must contact Compliance at SafeProducts@dcsg.com to initiate a product quality or safety withdrawal/RTV/recall.",
+                "source": "Vendors/Manufacturers must contact Compliance at SafeProducts@dcsg.com to initiate a product quality or safety withdrawal/RTV/recall."
+            },
+            {
+                "requirement": "In the event of a product withdrawal, a $25 fee per affected store will be charged.",
+                "source": "In the event your product is involved in a withdrawal, a $25 fee per store based on the number of affected stores at the time the withdrawal/recall is announced will be charged."
+            },
+            {
+                "requirement": "Returns on any firearm recall will be assessed $20 per gun returned.",
+                "source": "Firearms: Returns on any firearm recall will be assessed $20 per gun returned"
+            }
+        ]
+    },
+    "SECTION 20 PRODUCT WITHDRAWALS/RECALLS": {
+        "requirements": [
+            {
+                "requirement": "Vendors must maintain a 98% or better on-time ship and fill rate for eCommerce orders.",
+                "source": "As outlined in your Dick's Sporting Goods Vendor Agreement eCommerce addendum, we require a 98% or better on-time ship and fill rate."
+            },
+            {
+                "requirement": "Disputes or requests for additional information on chargebacks older than 6 months from the date the charge is approved will incur a $25 charge per item.",
+                "source": "Any information requested on chargeback's older than 6 months from the date the charge is approved in the vendor portal will be subject to a $25 charge per item."
+            },
+            {
+                "requirement": "No research will be done on any chargeback over 1 year old from the date the charge is approved.",
+                "source": "No research will be done on any charge over 1 year from the date charge is approved in the vendor portal"
+            },
+            {
+                "requirement": "Vendors/Manufacturers must contact Compliance at SafeProducts@dcsg.com to initiate a product quality or safety withdrawal/RTV/recall.",
+                "source": "Vendors/Manufacturers must contact Compliance at SafeProducts@dcsg.com to initiate a product quality or safety withdrawal/RTV/recall."
+            },
+            {
+                "requirement": "Product withdrawals/recalls will incur a $25 fee per store based on the number of affected stores at the time of the withdrawal/recall.",
+                "source": "In the event your product is involved in a withdrawal, a $25 fee per store based on the number of affected stores at the time the withdrawal/recall is announced will be charged."
+            },
+            {
+                "requirement": "Firearm recalls will be assessed a $20 fee per gun returned.",
+                "source": "Firearms: Returns on any firearm recall will be assessed $20 per gun returned"
+            }
+        ]
+    },
+    "SECTION 21 CONTACT INFORMATION": {
+        "requirements": [
+            {
+                "requirement": "For label approval, mail a hard copy to: Dick's Sporting Goods, 345 Court Street, Coraopolis, Pa 15108, Attention: Vendor Relations",
+                "source": "Label Approval Mail Hard Copy to: Dick's Sporting Goods 345 Court Street VendorRelationsComplianceTeam@dcsg.com Coraopolis, Pa 15108 Attent: Vendor Relations"
+            },
+            {
+                "requirement": "For questions related to pre-pack, parent-child, or order consolidation, contact Supply_Chain_Integration_Team@dcsg.com",
+                "source": "Smart Ordering Pre-pack, Parent-Child, Order Consolidation Supply_Chain_Integration_Team@dcsg.com Questions Supply Chain Initiatives"
+            },
+            {
+                "requirement": "For returned merchandise/defective allowance questions, contact dicksrtv@dcsg.com or RTVSSC@dcsg.com",
+                "source": "RTV Questions Returned merchandise/Defective allowance dicksrtv@dcsg.com or RTVSSC@dcsg.com"
+            },
+            {
+                "requirement": "For routing non-merchandise purchase orders, contact vendor.fixtures@dcsg.com",
+                "source": "Fixture Routing Non-merchandise purchase orders vendor.fixtures@dcsg.com"
+            },
+            {
+                "requirement": "For tax related questions, contact tax@dcsg.com",
+                "source": "Tax Related Questions tax@dcsg.com"
+            }
+        ]
+    }
+}

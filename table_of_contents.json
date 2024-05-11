@@ -1,0 +1,23 @@
+{
+    "SECTION 1 INTRODUCTION": {"start": 11, "end": 12},
+    "SECTION 2 CONFIDENTIAL INFORMATION POLICY": {"start": 12, "end": 12},
+    "SECTION 3 VENDOR INDEMNIFICATION AND INSURANCE": {"start": 12, "end": 12},
+    "SECTION 4 PRODUCT DATA AND ATTRIBUTES": {"start": 12, "end": 18},
+    "SECTION 5 VALUE ADDED SERVICES (VAS) REQUIREMENTS": {"start": 20, "end": 26},
+    "SECTION 6 PURCHASE ORDERS": {"start": 27, "end": 30},
+    "SECTION 7 EDI": {"start": 30, "end": 33},
+    "SECTION 8 NON-EDI": {"start": 33, "end": 34},
+    "SECTION 9 GENERAL PACKING AND SHIPPING": {"start": 34, "end": 38},
+    "SECTION 10 CARTON LABELING": {"start": 39, "end": 44},
+    "SECTION 11 SHIPPING LABEL PLACEMENT": {"start": 44, "end": 48},
+    "SECTION 12 VENDOR CERTIFICATION": {"start": 48, "end": 48},
+    "SECTION 13 ROUTING (TMS TRAINING)": {"start": 49, "end": 50},
+    "SECTION 14 DOMESTIC TRANSPORTATION": {"start": 51, "end": 58},
+    "SECTION 15 DIRECT IMPORT COLLECT TRANSPORTATION": {"start": 58, "end": 64},
+    "SECTION 16 DAMAGE/DEFECTIVE RTV PROGRAM": {"start": 69, "end": 69},
+    "SECTION 17 POINT OF SALE REPORTING": {"start": 70, "end": 70},
+    "SECTION 18 ECOMMERCE": {"start": 71, "end": 72},
+    "SECTION 19 CHARGEBACK RESEARCH AND DISPUTES": {"start": 72, "end": 72},
+    "SECTION 20 PRODUCT WITHDRAWALS/RECALLS": {"start": 72, "end": 72},
+    "SECTION 21 CONTACT INFORMATION": {"start": 73, "end": 73}
+}
